@@ -30,7 +30,7 @@ SECRET_KEY = 'on2w^k74r2zyr&95eop5skm&p(g0005x@^_@70u#fr7#9tr#v4'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://bouncey-project.herokuapp.com/',
+    'bouncey-site.herokuapp.com/'
 ]
 
 
