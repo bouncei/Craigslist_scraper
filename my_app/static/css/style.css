@@ -8,3 +8,15 @@
     overflow: hidden;
 }
 
+body {
+    background-color: blanchedalmond;
+    
+}
+
+.container nav-wrapper {
+    color: darkgray;
+}
+
+i:hover{
+    color: black;
+}
