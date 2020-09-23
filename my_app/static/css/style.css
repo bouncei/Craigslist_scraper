@@ -9,14 +9,27 @@
 }
 
 body {
+    background-image: url("https://images.unsplash.com/photo-1518065896235-a4c93e088e7a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9");
     background-color: blanchedalmond;
+    
     
 }
 
 .container nav-wrapper {
     color: darkgray;
+
 }
+
 
 i:hover{
     color: black;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.918);
+}
+
+p{
+    color: #f8f8f8;
+    font-size: medium;
 }
