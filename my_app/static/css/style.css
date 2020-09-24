@@ -22,7 +22,7 @@ body {
 
 
 i:hover{
-    color: black;
+    color: brown;
 }
 
 h1{
@@ -32,4 +32,14 @@ h1{
 p{
     color: #f8f8f8;
     font-size: medium;
+}
+
+
+
+.btn waves-effect waves-light{
+    color: brown;
+}
+
+.nav-mobile li{
+    color: brown;
 }
