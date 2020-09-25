@@ -1,13 +1,3 @@
-.card {
-    height: 400px; /* Your height here */
-    overflow: hidden;
-}
-
-.card-image {
-    height: 250px; /* Your height here */
-    overflow: hidden;
-}
-
 body {
     background-image: url("https://images.unsplash.com/photo-1518065896235-a4c93e088e7a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9");
     background-color: blanchedalmond;
@@ -42,4 +32,14 @@ p{
 
 .nav-mobile li{
     color: brown;
+}
+
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
 }
