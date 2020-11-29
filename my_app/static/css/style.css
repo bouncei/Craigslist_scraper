@@ -43,3 +43,7 @@ p{
     height: 250px; /* Your height here */
     overflow: hidden;
 }
+
+input {
+    color: aliceblue;
+}
